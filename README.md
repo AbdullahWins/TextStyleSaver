@@ -29,7 +29,7 @@ The `TextStyleSaver` function accepts a Markdown string as input and returns the
 - Supports headings with different levels (`#`, `##`, `###`, etc.).
 - Handles bold and italic formatting (`**bold**`, `*italic*`).
 - Converts unordered lists (`* item`) to `<ul>` tags.
-- Converts ordered lists (`1. item`) to `<ol>` tags.
+- Converts ordered lists (`1. item`) to `<ol>` tags. 
 
 ## Contributing
 
