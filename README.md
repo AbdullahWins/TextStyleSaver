@@ -6,13 +6,11 @@ A lightweight Markdown to HTML parser without external dependencies.
 
 ## Installation
 
-To install the Markdown Parser package, use npm:
+To install the TextStyleSaver package, use npm:
 
 ```bash
 npm install TextStyleSaver
 ```
-
-````
 
 ## Usage
 
@@ -39,9 +37,8 @@ Contributions are welcome! If you find any issues or have suggestions for improv
 
 ## Author
 
-Created with love by [AbdullahWins](https://github.com/AbdullahWins)
+Created with love by [AbdullahWins](https://github.com/AbdullahWins).
 
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-````
