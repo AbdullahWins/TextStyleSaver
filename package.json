@@ -1,6 +1,6 @@
 {
   "name": "text-style-saver",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A lightweight Markdown to HTML parser without external dependencies to save blog styles, font size etc as string in sql/nosql database.",
   "keywords": [
     "markdown",
